@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Jupyter Notebooks
+.ipynb_checkpoints/
+# Virtual environments
+venv/
+env/
+# System files
+.DS_Store
+Thumbs.db
+# Miscellaneous
+*.log
+*.cache

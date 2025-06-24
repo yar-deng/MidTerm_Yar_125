@@ -1,0 +1,10 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region,total_price,order_year
+1,Diana,Tablet,2.0,500.0,2024-01-20,South,1000.0,2024
+2,Eve,Laptop,2.0,750.0,2024-04-29,North,1500.0,2024
+3,Charlie,Laptop,2.0,250.0,2024-01-08,Unknown,500.0,2024
+4,Eve,Laptop,2.0,750.0,2024-01-07,West,1500.0,2024
+5,Eve,Tablet,3.0,750.0,2024-03-07,South,2250.0,2024
+7,Charlie,Monitor,2.0,750.0,2024-02-02,West,1500.0,2024
+8,Charlie,Laptop,3.0,750.0,2024-02-17,Unknown,2250.0,2024
+9,Charlie,Monitor,2.0,750.0,2024-03-16,West,1500.0,2024
+10,Eve,Monitor,1.0,500.0,2024-02-28,North,500.0,2024
