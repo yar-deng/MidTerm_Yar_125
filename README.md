@@ -34,3 +34,19 @@ This project implements an ETL (Extract, Transform, Load) pipeline for the DSA 2
 2. Ensure Python 3.8+ and required libraries are installed:
    ```bash
    pip install pandas sqlite3 matplotlib
+
+SREENSHOT
+![image](https://github.com/user-attachments/assets/88593f86-1cdb-4cf4-955f-434bd16b8ce8)
+The chart titled "Total Sales by Product" appears to be a list of sales values ranging from $0 to $424. However, the provided content does not include a visual representation (e.g., bar chart, line graph, or pie chart) or any product labels, making it difficult to interpret the data fully.
+
+Key Observations:
+Sales Range: The sales values span from $0 to $424, with some values repeated (e.g., $424 is listed multiple times).
+
+Data Format: The data is presented as a text list rather than a visual chart, which limits insights into trends, comparisons, or distributions.
+
+Potential Issues:
+
+The list includes many repeated values (e.g., $424) and skips some numbers (e.g., $303 is missing).
+
+No product names or categories are associated with the sales figures.
+
